@@ -3,7 +3,6 @@ obj_dir/
 
 # Simulation output
 build/
-waves/
 *.vcd
 
 # Temporary files
